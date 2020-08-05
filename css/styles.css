@@ -1,0 +1,30 @@
+body{
+  background-color: #efb1ff;
+}
+
+hr{
+
+
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #2c003e;
+    border-width: 5px;
+    width: 30%
+}
+
+h1{
+  color: #2c003e;
+}
+
+h2:hover{
+  backface-visibility: hidden;
+}
+
+h3{
+  color:#2c003e;
+}
+
+
+.subhead{
+  color: purple;
+}
